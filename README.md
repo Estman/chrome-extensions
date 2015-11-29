@@ -9,4 +9,4 @@ Custom new tab with favourite sites and search options.
 6. Support for displaying favicons.
 
 [url=http://imgur.com/iOl48Ts][img]http://i.imgur.com/iOl48Ts.png[/img][/url]
-![alt tag]([url=http://imgur.com/iOl48Ts][img]http://i.imgur.com/iOl48Ts.png[/img][/url])
+![alt tag](http://imgur.com/iOl48Ts][img]http://i.imgur.com/iOl48Ts.png)

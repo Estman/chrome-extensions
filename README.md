@@ -17,4 +17,4 @@ How to install:
 1. Download
 2. Open chrome 
 3. Place all files in folder
-4. ![alt tag]https://developer.chrome.com/extensions/getstarted#unpacked
+4. [Load the extension](https://developer.chrome.com/extensions/getstarted#unpacked)
